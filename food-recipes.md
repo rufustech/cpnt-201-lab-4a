@@ -1,6 +1,7 @@
 # My Recipe Book
 
 ## Contents
+
 - [My Recipe Book](#my-recipe-book)
   - [Contents](#contents)
   - [Appetizers](#appetizers)
@@ -13,11 +14,12 @@
     - [Chocolate Chip Cookies](#chocolate-chip-cookies)
     - [Banana bread](#banana-bread)
 
-
 ## Appetizers
+
 ### Spinach and Artichoke Dip
 
 Ingredients:
+
 - 1 can (14 oz) artichoke hearts, drained and chopped
 - 1 package (10 oz) frozen chopped spinach, thawed and drained
 - 1 cup mayonnaise
@@ -26,6 +28,7 @@ Ingredients:
 - 2 cloves garlic, minced
 
 Instructions:
+
 1. Preheat oven to 350°F.
 2. In a large mixing bowl, combine all ingredients.
 3. Transfer mixture to a 9-inch pie plate or a small baking dish.
@@ -35,6 +38,7 @@ Instructions:
 ### Bruschetta
 
 Ingredients:
+
 - 1 French baguette, sliced diagonally
 - 2 tomatoes, diced
 - 1/2 red onion, diced
@@ -44,6 +48,7 @@ Ingredients:
 - Salt and pepper to taste
 
 Instructions:
+
 1. Preheat oven to 350°F.
 2. Place baguette slices on a baking sheet and bake for 5-7 minutes or until lightly toasted.
 3. In a mixing bowl, combine tomatoes, red onion, garlic, olive oil, and balsamic vinegar.
@@ -51,9 +56,11 @@ Instructions:
 5. Top each toasted baguette slice with the tomato mixture.
 
 ## Entrees
+
 ### Spaghetti and Meatballs
 
 Ingredients:
+
 - 1 pound spaghetti
 - 1 pound ground beef
 - 1/2 cup bread crumbs
@@ -64,8 +71,10 @@ Ingredients:
 - Salt and pepper to taste
 - 2 cups breadsticks
 - 1 jar (24 oz) spaghetti sauce
+- 2 cups of ghost peppers
 
 Instructions:
+
 1. Cook spaghetti according to package instructions.
 2. In a mixing bowl, combine ground beef, bread crumbs, milk, Parmesan cheese, egg, garlic, salt, and pepper.
 3. Form mixture into meatballs.
@@ -77,6 +86,7 @@ Instructions:
 ### Grilled Chicken Sandwich
 
 Ingredients:
+
 - 2 boneless, skinless chicken breasts
 - Salt and pepper to taste
 - 2 tablespoons olive oil
@@ -88,6 +98,7 @@ Ingredients:
 - Cilantro
 
 Instructions:
+
 1. Preheat grill to medium-high heat.
 2. Season chicken breasts with salt and pepper and drizzle with olive oil.
 3. Grill chicken for 5-7 minutes per side or until cooked through.
@@ -96,9 +107,11 @@ Instructions:
 6. Assemble sandwiches with chicken, lettuce, tomato, and mayonnaise.
 
 ## Desserts
+
 ### Chocolate Chip Cookies
 
 Ingredients:
+
 - 2 1/4 cups all-purpose flour
 - 1 tsp baking soda
 - 1 tsp salt
@@ -110,6 +123,7 @@ Ingredients:
 - 4 cups semisweet chocolate chips
 
 Instructions:
+
 1. Preheat oven to 375°F (190°C).
 2. Combine flour, baking soda, and salt in a bowl.
 3. Cream together butter, white sugar, and brown sugar until smooth.
@@ -123,6 +137,7 @@ Instructions:
 ### Banana bread
 
 Ingredients:
+
 - 2 1/4 cups all-purpose flour
 - 1 tsp baking soda
 - 1 tsp salt
@@ -134,6 +149,7 @@ Ingredients:
 - 4 cups semisweet chocolate chips
 
 Instructions:
+
 1. Preheat oven to 375°F (190°C).
 2. Combine flour, baking soda, and salt in a bowl.
 3. Cream together butter, white sugar, and brown sugar until smooth.

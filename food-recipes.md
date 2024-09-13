@@ -1,13 +1,15 @@
 # My Recipe Book
 
 ## Contents
-- [Appetizers](#appetizers)
+- [My Recipe Book](#my-recipe-book)
+  - [Contents](#contents)
+  - [Appetizers](#appetizers)
     - [Spinach and Artichoke Dip](#spinach-and-artichoke-dip)
     - [Bruschetta](#bruschetta)
-- [Entrees](#entrees)
+  - [Entrees](#entrees)
     - [Spaghetti and Meatballs](#spaghetti-and-meatballs)
     - [Grilled Chicken Sandwich](#grilled-chicken-sandwich)
-- [Desserts](#desserts)
+  - [Desserts](#desserts)
     - [Chocolate Chip Cookies](#chocolate-chip-cookies)
     - [Banana bread](#banana-bread)
 
@@ -103,7 +105,7 @@ Ingredients:
 - 1 cup unsalted butter, softened
 - 3/4 cup white sugar
 - 3/4 cup brown sugar
-- 2 eggs
+- 12 eggs
 - 2 tsp vanilla extract
 - 4 cups semisweet chocolate chips
 

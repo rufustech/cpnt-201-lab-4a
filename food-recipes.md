@@ -96,6 +96,7 @@ Ingredients:
 - Tomato
 - Mayonnaise
 - Cilantro
+- 2 teaspoons of mayonaise 
 
 Instructions:
 
